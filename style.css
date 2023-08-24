@@ -1,0 +1,24 @@
+:root {
+  font-size: 62.5%; /* 1rem = 10px */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+
+  /*Melhorando a qualidade das fontes (textos) */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  color: #ffffff;
+
+  font-family: 'Mulish', sans-serif;
+  font-size: 2rem;
+
+  background: #121214;
+}
+
