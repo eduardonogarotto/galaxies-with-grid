@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Em desenvolvimento.
 <!--
-<a href="" target="_blank"><strong> - Clique aqui para acessar o meu projeto finalizado.</strong></a>
+<a href="https://galaxies-with-grid.vercel.app/" target="_blank"><strong> - Clique aqui para acessar o meu projeto finalizado.</strong></a>
 -->
 
 ## 🔖 Layout

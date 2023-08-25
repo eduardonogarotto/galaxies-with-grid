@@ -15,10 +15,73 @@
 
 body {
   color: #ffffff;
-
   font-family: 'Mulish', sans-serif;
-  font-size: 2rem;
+  font-size: 1.6rem;
 
   background: #121214;
+}
+
+#page {
+  padding: 3rem;
+
+  display: grid;
+  place-content: center;
+  gap: 6rem;
+}
+
+header h1 {
+  color: #02799D;
+  font-size: 3.8rem;
+  font-weight: 900;
+
+  margin-bottom: 1.6rem;
+}
+
+header p {
+  color: #E1E1E6;
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+
+main {
+  display: grid;
+  place-content: center;
+  gap: 6rem;
+}
+
+.card-galaxy  {
+  background: #202024;
+  max-width: 37rem;
+
+  /* Esconder a parte da imagem que transbordou por conta das bordas arredondadas do card. */ 
+  overflow: hidden;
+  
+  border: 2px solid #323238;
+  border-radius: 8px;
+}
+
+.card-galaxy img {
+  width: 100%;
+}
+
+.card-galaxy h2 {
+  color: #E1E1E6;
+  font-size: 2.4rem;
+  font-weight: 900;
+  text-align: center;
+
+  margin-block: 2.4rem;
+}
+
+.card-galaxy p {
+  color: #C4C4CC;
+  font-weight: 600;
+  text-align: center;
+
+  padding: 0 2.2rem 3.8rem;
+}
+
+@media (min-width: 1200px) {
+
 }
 
