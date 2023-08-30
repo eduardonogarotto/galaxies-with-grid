@@ -3,6 +3,7 @@
 <p align="center">
 Projeto nº 4 realizado no Stage 3 do programa Explorer da Rocketseat<br/>
 Neste projeto aprendemos a aplicar conceitos de HTML, CSS, a utilização do Figma, e como utilizar GRID para criar o layout.<br/>
+Aproveitei a oportunidade para tornar o projeto responsivo.<br/>
 
 <p align="center">
 A imagem abaixo representa o resultado final do projeto, e na seção Projeto Finalizado você pode acessar o projeto publicado online e conferir todos os detalhes. 
